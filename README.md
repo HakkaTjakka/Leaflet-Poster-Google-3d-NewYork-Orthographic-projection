@@ -12,3 +12,6 @@ https://github.com/HakkaTjakka/Leaflet-Poster-Google-3d-Enschede-Orthographic-pr
 https://github.com/HakkaTjakka/Leaflet-Minecraft-Region-Tiles-Map
 
 https://github.com/HakkaTjakka/PROJECT-CGI-BTE121-LEAFLET
+
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/Leaflet-Poster-Google-3d-NewYork-Orthographic-projection/blob/main/new_york_youtube.jpg)](https://www.youtube.com/watch?v=GKEDMfKTBMA)
+(Click to play vid)
