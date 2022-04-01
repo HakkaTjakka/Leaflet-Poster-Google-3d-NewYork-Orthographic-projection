@@ -1,6 +1,8 @@
 # Leaflet-Poster-Google-3d-NewYork-Orthographic-projection
 Leaflet poster tiles
 
+(Webserver up again: http://83.83.222.154/posters/NewYork/ for demo of Leaflet javascript / html code)
+
 For Leaflet script examples and XAMPP files see:
 
 https://github.com/HakkaTjakka/NL_TILE_MAP
